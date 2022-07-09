@@ -26,6 +26,13 @@ div{
     border-radius: 10px;
 }
 
+#container > div:hover{
+    cursor: no-drop;
+    box-shadow: 5px 5px 10px 0px lightslategray;
+    
+    
+}
+
 h2{
     width: 100%;
 
@@ -67,7 +74,6 @@ span{
 
 #container{
     width: 85vw;
-    border: 1px solid red;
 
     display: grid;
     grid-gap: 20px;
@@ -87,6 +93,7 @@ span{
     background-position: right 80px top;
     background-repeat: no-repeat;
     background-color: hsl(263, 55%, 52%);
+    box-shadow: 5px 5px 10px 0px black;
 
 }
 
@@ -109,6 +116,7 @@ span{
     grid-column-end: 4;
 
     background-color: hsl(217, 19%, 35%);
+    box-shadow: 5px 5px 10px 0px black;
 }
 
 .comment-jonathan h2{
@@ -133,6 +141,7 @@ span{
     grid-row-end: 3;
 
     background-color: hsl(0, 0%, 100%);
+    box-shadow: 5px 5px 10px 0px black;
 }
 
 .comment-kira h2{
@@ -160,6 +169,7 @@ span{
     grid-column-end: 2;
 
     background-color: hsl(0, 0%, 100%);
+    box-shadow: 5px 5px 10px 0px black;
 
 }
 
@@ -186,6 +196,7 @@ span{
     grid-column-end: 4;
     
     background-color: hsl(219, 29%, 14%);
+    box-shadow: 5px 5px 10px 0px black;
 }
 
 .comment-patrick h2{
