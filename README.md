@@ -1,5 +1,9 @@
 # <a href="https://devnylo.github.io/tridimensional-grid/">Testimonial Grid</a>
 
-![](./design/desktop-preview.jpg)
+Exercício criado apenas para estudos de Grid-layout.
 
-Olá, esse é apenas um exercício para estudos de Grid Layout.
+<img src="https://github.com/DevNylo/DevNylo/blob/main/Preview-Pages/tridimensional-grid.png"></img>
+
+## Responsivo
+
+<img src="https://github.com/DevNylo/DevNylo/blob/main/Preview-Pages/tridimensional-grid-resp.PNG"></img>
